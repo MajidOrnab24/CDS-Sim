@@ -1,0 +1,15 @@
+trace file for the simulation
+format of the file
+<event><From Server> <QueueID in Server> <Last Service Time> <time> <item id> <server status> <queue size>
+
+a	2		2		0.40959	1	0	0
+s	2		2		0.40959	1	1	0
+d	2		2		0.476237	1	0	0
+a	1		2		0.594295	2	0	0
+s	1		2		0.594295	2	1	0
+d	1		2		0.773936	2	0	0
+a	2		4		0.924139	3	0	0
+s	2		4		0.924139	3	1	0
+d	2		4		0.965234	3	0	0
+a	1		4		1.17924	4	0	0
+s	1		4		1.17924	4	1	0

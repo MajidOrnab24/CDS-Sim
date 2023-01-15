@@ -1,0 +1,16 @@
+trace file for the simulation
+format of the file
+<event> <Extra Service Status> <time> <item id> <server status> <queue size>
+
+a	With Extra Service  0.334182	1	0	0
+s	With Extra Service  0.334182	1	1	0
+a	With Extra Service  0.344797	2	1	0
+d	With Extra Service  0.498534	1	1	1
+s	With Extra Service  0.498534	2	1	0
+d	With Extra Service  0.599473	2	0	0
+a	With Extra Service  0.6387	3	0	0
+s	With Extra Service  0.6387	3	1	0
+a	No Extra Service	  0.874723	4	1	0
+a	No Extra Service	  0.906312	5	1	1
+d	With Extra Service  1.17538	3	1	2
+s	No Extra Service	  1.17538	4	1	1

@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1673190174 source:e:\my class\5th semester\cse 4550 simulation lab\multiserver\cds simulation\event.cpp
+	"event.h"
+	"counter.h"
+	"scheduler.h"
+
+1673190130 e:\my class\5th semester\cse 4550 simulation lab\multiserver\cds simulation\event.h
+
+1673794889 e:\my class\5th semester\cse 4550 simulation lab\multiserver\cds simulation\counter.h
+	"event.h"
+	"queue.h"
+	<math.h>
+	<iostream>
+	<fstream>
+
+1673470117 e:\my class\5th semester\cse 4550 simulation lab\multiserver\cds simulation\queue.h
+
+1636526836 e:\my class\5th semester\cse 4550 simulation lab\multiserver\cds simulation\scheduler.h
+	"event.h"
+
+1673190040 source:e:\my class\5th semester\cse 4550 simulation lab\multiserver\cds simulation\main.cpp
+	<iostream>
+	"scheduler.h"
+	"counter.h"
+	"serviceFacility.h"
+
+1673190027 e:\my class\5th semester\cse 4550 simulation lab\multiserver\cds simulation\servicefacility.h
+	"counter.h"
+
+1666031576 source:e:\my class\5th semester\cse 4550 simulation lab\multiserver\cds simulation\queue.cpp
+	"queue.h"
+
+1636526836 source:e:\my class\5th semester\cse 4550 simulation lab\multiserver\cds simulation\scheduler.cpp
+	"scheduler.h"
+	"event.h"
+	<iostream>
+	<fstream>
+
+1673794864 source:e:\my class\5th semester\cse 4550 simulation lab\multiserver\cds simulation\servicefacility.cpp
+	"serviceFacility.h"
+
+1673794994 source:e:\my class\5th semester\cse 4550 simulation lab\multiserver\cds simulation\counter.cpp
+	"counter.h"
+	"scheduler.h"
+	<malloc.h>
+	<iostream>
+	<fstream>
+
